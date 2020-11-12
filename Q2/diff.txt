@@ -1,1 +1,8 @@
 # The diff should be in the form of text (Not image).
+new files were vmlinux
+/home/yoshin/Desktop/linux-5.9.1 re/vmlinux.o
+/home/yoshin/Desktop/linux-5.9.1 re/vmlinux.symvers
+/home/yoshin/Desktop/linux-5.9.1 re/vmlinux-gdb.py
+/home/yoshin/Desktop/linux-5.9.1 re/modules.builtin
+/home/yoshin/Desktop/linux-5.9.1 re/modules.builtin.modinfo
+/home/yoshin/Desktop/linux-5.9.1 re/modules.order
