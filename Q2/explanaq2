@@ -1,0 +1,8 @@
+in sys.c i have made a system call shtaskinfo
+
+with the help of finfgetpid  i extracted the pid from the hash table
+To find the task_struct of a process we can make use of the function pid_task
+ made a file name taskfile that can write read
+
+ made several buffer to separately save the pid information
+ used printk to save to print on the kernel
